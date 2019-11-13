@@ -1,7 +1,18 @@
 name,level,depth,id,fill,stroke,refs
 31 - Hardening Certification Checklist,,0,1-I31 ,#dae8fc,#6c8ebf,
 Certification Checklists,31 - Hardening Certification Checklist,1,3-A31-Cer,#dae8fc,#6c8ebf,
-Archive,Certification Checklists,2,31-CerArc,#dae8fc,#6c8ebf,
-Middletown,Certification Checklists,2,31-CerMid,#dae8fc,#6c8ebf,
-East Hartford,Certification Checklists,2,31-CerEas,#dae8fc,#6c8ebf,
-EVB,East Hartford,3,CerEasEVB,#dae8fc,#6c8ebf,2
+Archive,Certification Checklists,2Certification Checklists,31-CerArc,#dae8fc,#6c8ebf,1Certification Checklists
+Middletown,Certification Checklists,2Certification Checklists,31-CerMid,#dae8fc,#6c8ebf,1Certification Checklists
+East Hartford,Certification Checklists,2Certification Checklists,31-CerEas,#dae8fc,#6c8ebf,1Certification Checklists
+EVB,East Hartford,3East Hartford,CerEasEVB,#dae8fc,#6c8ebf,2East Hartford
+C-Building,East Hartford,3East Hartford,CerEasC-B,#dae8fc,#6c8ebf,2East Hartford
+Printers,Hardening Checklists,2Hardening Checklists,31-HarPri,#dae8fc,#6c8ebf,1Hardening Checklists
+Windows,Hardening Checklists,2Hardening Checklists,31-HarWin,#dae8fc,#6c8ebf,1Hardening Checklists
+U_Windows_10_V1R8_STIG_SCAP_1-1_Benchmark,Windows,3Windows,HarWinU_W,#dae8fc,#6c8ebf,2Windows
+Linux,Hardening Checklists,2Hardening Checklists,31-HarLin,#dae8fc,#6c8ebf,1Hardening Checklists
+Old Debian Checklist,Linux,3Linux,HarLinOld,#dae8fc,#6c8ebf,2Linux
+EVB-Certification,Linux,3Linux,HarLinEVB,#dae8fc,#6c8ebf,2Linux
+SCAP Tool,Hardening Checklists,2Hardening Checklists,31-HarSCA,#dae8fc,#6c8ebf,1Hardening Checklists
+switches-dell series,Hardening Checklists,2Hardening Checklists,31-Harswi,#dae8fc,#6c8ebf,1Hardening Checklists
+Archive - Certification Checklist,Hardening Checklists,2Hardening Checklists,31-HarArc,#dae8fc,#6c8ebf,1Hardening Checklists
+Archive,31 - Hardening Certification Checklist,1,3-A31-Arc,#dae8fc,#6c8ebf,
